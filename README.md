@@ -1,4 +1,6 @@
 Customer Churn Analysis
+
+
 Objective
 This analysis investigates the factors influencing customer churn, with a primary focus on payment methods, contract types, and tenure. The goal is to identify key drivers of churn and provide actionable insights to help reduce customer attrition.
 
